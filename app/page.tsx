@@ -1,4 +1,4 @@
-import { Board } from "@/Components/Board";
+import { Board } from "@/components/Board";
 
 export default function Home() {
   return (
